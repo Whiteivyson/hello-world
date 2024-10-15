@@ -1,4 +1,4 @@
-<form action="action_page.php">
+CI<form action="action_page.php">
   <div class="container">
     <h1>New user Register for Brandoff DevOps LOGINAPP</h1>
     <p>Please fill in this form to create an account.</p>
@@ -24,7 +24,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Confirm Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>

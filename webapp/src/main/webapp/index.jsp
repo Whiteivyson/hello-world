@@ -16,8 +16,8 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-  <label for="email"><b>Verify Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+  <label for="DOB"><b>Enter Date of Birth</b></label>
+    <input type="text" placeholder="Enter Date of Birth" name="DOB" id="DOB" required>
 <br>
 
     <label for="psw"><b>Password</b></label>

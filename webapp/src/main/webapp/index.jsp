@@ -13,7 +13,7 @@
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter your Email" name="email" id="email" required>
     <br>
 
   <label for="DOB"><b>Enter Date of Birth</b></label>
